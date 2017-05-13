@@ -6,3 +6,4 @@ yum install perl
 yum install perl-CGI
 
 我自己添加了一个client例子，用来与server配合使用
+这是测试
